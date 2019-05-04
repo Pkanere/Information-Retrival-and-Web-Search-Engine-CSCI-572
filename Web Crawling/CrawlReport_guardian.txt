@@ -1,0 +1,80 @@
+Name: Pranali Prakash Kanere
+
+News site crawled: theguardian.com
+
+
+
+Fetch Statistics
+
+================
+
+# fetches attempted: 20000
+
+# fetches succeeded: 17401
+
+# fetches failed or aborted: 2599
+
+
+
+Outgoing URLs:
+
+==============
+
+Total URLs extracted: 2291371
+
+# unique URLs extracted: 248367
+
+# unique URLs within News Site: 34805
+
+# unique URLs outside News Site: 213562
+
+
+
+Status Codes:
+
+=============
+
+200 OK: 17401
+
+301 Moved Permanently: 1585
+
+302 Found: 992
+
+401 Unauthorized: 0
+
+410 Gone: 2
+
+403 Forbidden: 0
+
+404 Not Found: 17
+
+504 Gateway Timeout: 3
+
+
+
+File Sizes:
+
+===========
+
+< 1KB: 0
+
+1KB ~ <10KB: 0
+10KB ~ <100KB: 0
+100KB ~ <1MB: 13404 
+
+>= 1MB: 3711
+
+
+
+Content Types:
+
+==============
+text/html: 17115 
+
+image/gif: 0
+
+image/jpeg: 0
+
+image/png: 0
+
+application/pdf: 0
